@@ -1,0 +1,14 @@
+D:\Education\CS\CSLab1Base64\CSLab1Base64\bin\Debug\CSLab1Base64.exe.config
+D:\Education\CS\CSLab1Base64\CSLab1Base64\bin\Debug\CSLab1Base64.exe
+D:\Education\CS\CSLab1Base64\CSLab1Base64\bin\Debug\CSLab1Base64.pdb
+D:\Education\CS\CSLab1Base64\CSLab1Base64\obj\Debug\CSLab1Base64.csprojAssemblyReference.cache
+D:\Education\CS\CSLab1Base64\CSLab1Base64\obj\Debug\CSLab1Base64.csproj.CoreCompileInputs.cache
+D:\Education\CS\CSLab1Base64\CSLab1Base64\obj\Debug\CSLab1Base64.exe
+D:\Education\CS\CSLab1Base64\CSLab1Base64\obj\Debug\CSLab1Base64.pdb
+D:\Education\CS\Lab1\CSLab1Base64\CSLab1Base64\bin\Debug\CSLab1Base64.exe.config
+D:\Education\CS\Lab1\CSLab1Base64\CSLab1Base64\bin\Debug\CSLab1Base64.exe
+D:\Education\CS\Lab1\CSLab1Base64\CSLab1Base64\bin\Debug\CSLab1Base64.pdb
+D:\Education\CS\Lab1\CSLab1Base64\CSLab1Base64\obj\Debug\CSLab1Base64.csprojAssemblyReference.cache
+D:\Education\CS\Lab1\CSLab1Base64\CSLab1Base64\obj\Debug\CSLab1Base64.csproj.CoreCompileInputs.cache
+D:\Education\CS\Lab1\CSLab1Base64\CSLab1Base64\obj\Debug\CSLab1Base64.exe
+D:\Education\CS\Lab1\CSLab1Base64\CSLab1Base64\obj\Debug\CSLab1Base64.pdb

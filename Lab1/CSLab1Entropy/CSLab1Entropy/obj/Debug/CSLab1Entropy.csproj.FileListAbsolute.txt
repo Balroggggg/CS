@@ -1,0 +1,14 @@
+D:\Education\CS\CSLab1Entropy\CSLab1Entropy\bin\Debug\CSLab1Entropy.exe.config
+D:\Education\CS\CSLab1Entropy\CSLab1Entropy\bin\Debug\CSLab1Entropy.exe
+D:\Education\CS\CSLab1Entropy\CSLab1Entropy\bin\Debug\CSLab1Entropy.pdb
+D:\Education\CS\CSLab1Entropy\CSLab1Entropy\obj\Debug\CSLab1Entropy.csprojAssemblyReference.cache
+D:\Education\CS\CSLab1Entropy\CSLab1Entropy\obj\Debug\CSLab1Entropy.csproj.CoreCompileInputs.cache
+D:\Education\CS\CSLab1Entropy\CSLab1Entropy\obj\Debug\CSLab1Entropy.exe
+D:\Education\CS\CSLab1Entropy\CSLab1Entropy\obj\Debug\CSLab1Entropy.pdb
+D:\Education\CS\Lab1\CSLab1Entropy\CSLab1Entropy\bin\Debug\CSLab1Entropy.exe.config
+D:\Education\CS\Lab1\CSLab1Entropy\CSLab1Entropy\bin\Debug\CSLab1Entropy.exe
+D:\Education\CS\Lab1\CSLab1Entropy\CSLab1Entropy\bin\Debug\CSLab1Entropy.pdb
+D:\Education\CS\Lab1\CSLab1Entropy\CSLab1Entropy\obj\Debug\CSLab1Entropy.csprojAssemblyReference.cache
+D:\Education\CS\Lab1\CSLab1Entropy\CSLab1Entropy\obj\Debug\CSLab1Entropy.csproj.CoreCompileInputs.cache
+D:\Education\CS\Lab1\CSLab1Entropy\CSLab1Entropy\obj\Debug\CSLab1Entropy.exe
+D:\Education\CS\Lab1\CSLab1Entropy\CSLab1Entropy\obj\Debug\CSLab1Entropy.pdb
